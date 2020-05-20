@@ -1,0 +1,10 @@
+{
+  "incorrectLoginCredentials": {
+    "username": "IncorrectUsername",
+    "password": "IncorrectPassword"
+  },
+  "firstName": "Ron",
+  "lastName": "Weasly",
+  "incorrectStartDate": "1020-19-01",
+  "correctStartDate": "2010-02-01"
+}
